@@ -1,6 +1,6 @@
 {
   "name": "bin-minify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Add non-standard binaries to your projects.",
   "license": "MIT",
   "repository": {
